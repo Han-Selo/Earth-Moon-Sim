@@ -1,7 +1,7 @@
 # Earth-Moon-Sim
 Displaying the actual distance between the moon and the earth.
 
-The myth that the moon is very close to the earth is unfortunately very widespread, this is a simple demonstration using VPython to show the (approximate) distances between our moon and the earth.
+The myth that the moon is very close to the earth is unfortunately very widespread, this is a simple demonstration using VPython to show the (approximate) distance between our moon and the earth.
 
 Below you can see the believed/actual distance.
 
